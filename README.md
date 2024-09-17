@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm passionate about crafting dynamic, scalable, and high-performance web applications using the MERN stack (MongoDB, Express.js, React, Node.js). My toolkit includes TypeScript for type safety and Redux Toolkit for efficient state management, ensuring robust and maintainable code.<br><br>🔧 Skills & Technologies<br>Frontend: React, Redux Toolkit, TypeScript, HTML5, CSS3, Tailwind CSS<br>Backend: Node.js, Express.js, RESTful APIs, GraphQL<br>Database: MongoDB, Mongoose<br>DevOps: Docker, CI/CD, GitHub Actions<br>Tools: Webpack, Babel, ESLint, Prettier<br>🌱 Currently Learning<br>Next.js: For server-side rendering and static site generation<br>GraphQL: To enhance API interactions and data fetching<br>Testing Libraries: Jest, React Testing Library
+ I'm passionate about crafting dynamic, scalable, and high-performance web applications using the MERN stack (MongoDB, Express.js, React, Node.js). My toolkit includes TypeScript for type safety and Redux Toolkit for efficient state management, ensuring robust and maintainable code.<br>🌱 Currently Learning<br>Next.js: For server-side rendering and static site generation<br>GraphQL: To enhance API interactions and data fetching<br>Testing Libraries: Jest, React Testing Library
 
 
 # 💻 Tech Stack:
@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sohilvp&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
